@@ -41,6 +41,7 @@
     * ButterKnife
     * RxJava
     * Realm
+    * garnet
 
 * Grooby
   * build.gradle
