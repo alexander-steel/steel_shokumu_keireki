@@ -95,8 +95,12 @@
 * レガシーコード改善ガイド
 * Realm 入門
 * RxJavaリアクティブプログラミング
+* みんな気になるAndroid開発の最新事情
 
 ## 積読中・途中まで読んでいる、又は読んでる最中なもの
+* Jetpack Handbook 【PEAKS応援記念】
+* Master of Dagger あんざいゆき第2版
+* SwiftUIガイドブック
 * ドメイン駆動設計入門　ボトムアップでわかる
 * 基礎からわかる Elm
 * チームで育てるAndroidアプリ設計
