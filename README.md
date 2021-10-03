@@ -60,6 +60,10 @@
 
 * Ruby
 
+* node.js(ローカル検証レベル)
+
+* Go(雑にRest Api生やせるレベル)
+
 ## CIツール
 
 * CircleCI	
