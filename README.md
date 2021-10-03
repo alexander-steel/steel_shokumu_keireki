@@ -226,7 +226,7 @@ BackEnd: GAE
 
 ### 百貨店の店舗アプリ開発　iOS/Android/Flutter　(2~10人体制)
   #### ポジション: プロジェクトリーダー
-  * 担当: 開発・テスト・CI構築(CircleCI / Bitrise)
+  * 担当: 開発・テスト・CI構築(CircleCI / Bitrise)・native部分
   * 期間: プロジェクトの開始から現在まで（3年）
   #### 概要
   百貨店向けの総合アプリ
