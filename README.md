@@ -4,6 +4,8 @@
 
 * 名前: 兒玉　晋
 * Twitter: steelhearts_if
+* Qiiita: @steelhearts
+* Zenn: alexander_steel
 
 ## 会社履歴
 2015年04月 ～ 2021年(現在)
