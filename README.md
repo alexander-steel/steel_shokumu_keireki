@@ -18,7 +18,20 @@
 ## 業務で扱えるレベルの言語やフレームワーク等
 
 * Dart
-  * Flutter  
+  * Flutter
+    * bloc
+    * freezed
+    * clocl
+    * cached_network_image
+    * flutter_webview_plugin
+    * uni_links
+    * flutter_app_bagger
+    * flutter_secure_storage
+    * json_serializable
+    * encrypt
+    * riverpod(習得中)
+    * firebase_performance
+    * firebase_crashrtics   
 
 * C#
   * Xamarin 
@@ -33,6 +46,15 @@
     * Nimble
     * RxSwift
     * Realm
+    * Crashlytics
+    * FirebaseDatabase
+    * FirebaseMessaging
+    * FirebaseAuth
+    * FirebaseRemoteConfig
+    * FirebaseStorage
+    * Functions
+    * FirebaseDatabaseSwift
+    * FirebaseAnalyticsSwift
 
 * Java
   * Android 
@@ -44,6 +66,14 @@
     * RxJava
     * Realm
     * garnet
+    * firebase-crashlytics
+    * firebase-messaging
+    * firebase-auth
+    * firebase-config
+    * firebase-storage
+    * firebase-functions
+    * firebase-database
+    * firebase-analytics
 
 * Grooby
   * build.gradle
