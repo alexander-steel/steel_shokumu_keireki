@@ -21,6 +21,7 @@
   * Flutter
     * bloc
     * freezed
+    * flutter_hooks
     * clocl
     * cached_network_image
     * flutter_webview_plugin
