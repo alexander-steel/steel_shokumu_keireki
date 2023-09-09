@@ -12,6 +12,8 @@
 
 * 株式会社トップゲート
 
+2022年02月 ～ 2023年(現在)
+* 株式会社エバーセンス
 
 # スキルセット
 
@@ -35,7 +37,8 @@
     * firebase_crashrtics   
 
 * C#
-  * Xamarin 
+  * Xamarin
+  * Unity（軽度）
 
 * Swift
   * iOS
