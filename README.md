@@ -8,7 +8,7 @@
 * Zenn: alexander_steel
 
 ## 会社履歴
-2015年04月 ～ 2021年(現在)
+2015年04月 ～ 2022年01月
 
 * 株式会社トップゲート
 
@@ -38,7 +38,9 @@
 
 * C#
   * Xamarin
-  * Unity（軽度）
+  * Unity
+     - 2D 図鑑アプリのようなレベルなら
+     - 3D 趣味レベル
 
 * Swift
   * iOS
@@ -61,6 +63,7 @@
     * FirebaseAnalyticsSwift
 
 * Java
+* Kotlin 
   * Android 
     * retorofit 
     * Gson
@@ -70,6 +73,8 @@
     * RxJava
     * Realm
     * garnet
+    * dagger
+    * dagger-hilt
     * firebase-crashlytics
     * firebase-messaging
     * firebase-auth
@@ -92,14 +97,13 @@
 
 ## チョットデキル
 
-* Kotlin 
-  * Android
-
 * Ruby
 
 * node.js(ローカル検証レベル)
 
 * Go(雑にRest Api生やせるレベル)
+
+* Wordpress
 
 ## CIツール
 
@@ -115,11 +119,15 @@
   * Apple Store ConnectやGoogle Playへの自動アップロード
   * ReｖiewDogを使ったPullRequestのチェックの自動化
   * DeployGgateへの自動ベータ配布
-  * Flutter用のCI構築"															
+  * Flutter用のCI構築"
+ 
+* GithubActions
+  * FastlaneでのApple Connect storeやGoogle Play への自動アップロード
+ 
 
 ## 興味のあるものや勉強中のもの
 
-* Elm
+* Elm（WebFront）
   * 最近注目されている、The Composable ArchitectureやRedux・RxFeedbackといったものを理解するため、これらのarchitectureが影響受けている、The Elm Architectureについて学び中。
   * 学ぼうと思ったきっかけはFlutterでBloc・Cubit + hooks やRiverpodと出会い、個人的に状態による変化がコード上で分かりやすいと思った。
   * functionnalな考え方を身に着けるのによいと思った。
@@ -146,6 +154,9 @@
 * 基礎からわかる Elm
 * チームで育てるAndroidアプリ設計
 * ユースケース駆動開発
+* 達人に学ぶDB設計
+* Learning TCP/IP
+* 雰囲気で使わずきちんと理解するOAuth2.0
 * Android　テスト全書
 * iOS テスト全書
 * アジャイルサムライ
@@ -161,7 +172,58 @@
 * Slack
 * Discord
 
+## その他使ったことあるツールやサービス
+* chatgptv4
+* github copilot
+
 ## 職務経歴
+
+### 自社アプリの保守・新規開発(新規アプリ以外はローテンション開発)
+BackEnd:AWS
+ - DynamoDB
+ - Lamda
+ - APIGateway
+ - S3
+ - CloudFormation
+- ninaru iOSアプリ
+  - 既存のアーキテクチャからVIPERへのフルリファクタリング
+  - マーケ施策による開発
+- ninaru Androidアプリ
+  - マーケ施策による開発
+  - その他プロダクト改善、機能開発
+- ninarubaby iOSアプリ
+  - マーケ施策による開発
+  - その他プロダクト改善、機能開発
+- ninarubaby Androidアプリ
+  - マーケ施策による開発
+  - その他プロダクト改善、機能開発
+- papaninaru iOS
+  - マーケ施策による開発
+  - その他プロダクト改善、機能開発
+- papaninaru Androidアプリ
+  - マーケ施策による開発
+  - その他プロダクト改善、機能開発
+- sofuboninaru iOSアプリ
+  - マーケ施策による開発
+  - その他プロダクト改善、機能開発
+- sofuboninaru Androidアプリ
+  - マーケ施策による開発
+  - その他プロダクト改善、機能開発
+- pibo iOS
+  - マーケ施策による開発
+  - その他プロダクト改善、機能開発
+- pibo Android
+  - マーケ施策による開発
+  - その他プロダクト改善、機能開発
+- ninaru小学生 Flutter
+  - アーキテクチャの選定
+  - マーケ施策による開発
+  - 広告SDK導入
+  - その他プロダクト改善、機能開発
+- はじめてのずかん Unity
+  - マーケ施策による開発
+
+
 
 ### 百貨店の店舗アプリ開発　iOS/Android/Flutter　(2~10人体制) 期間: 3年
   #### ポジション: プロジェクトリーダー(2年)
