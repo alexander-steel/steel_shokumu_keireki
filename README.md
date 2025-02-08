@@ -12,8 +12,10 @@
 
 * 株式会社トップゲート
 
-2022年02月 ～ 2023年(現在)
+2022年02月 ～ 2023年12月
 * 株式会社エバーセンス
+2024年01月 ～ 2025年（現在）
+* 株式会社VOISING
 
 # スキルセット
 
@@ -32,7 +34,7 @@
     * flutter_secure_storage
     * json_serializable
     * encrypt
-    * riverpod(習得中)
+    * riverpod
     * firebase_performance
     * firebase_crashrtics   
 
@@ -145,6 +147,8 @@
 * Realm 入門
 * RxJavaリアクティブプログラミング
 * みんな気になるAndroid開発の最新事情
+* Web API設計実践入門──API仕様ファーストによるテスト駆動開発
+* システムを作らせる技術　エンジニアではないあなたへ (日本経済新聞出版)
 
 ## 積読中・途中まで読んでいる、又は読んでる最中なもの
 * Jetpack Handbook 【PEAKS応援記念】
@@ -174,8 +178,9 @@
 * Discord
 
 ## その他使ったことあるツールやサービス
-* chatgptv4
+* chatgpt 4o
 * github copilot
+* cline
 
 ## 職務経歴
 
