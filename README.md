@@ -143,6 +143,7 @@
 * Clean Architecture
 * Android　設計入門
 * iOS 設計入門
+* チームで育てるAndroidアプリ設計
 * リーダブルコード
 * レガシーコード改善ガイド
 * Realm 入門
@@ -157,7 +158,6 @@
 * SwiftUIガイドブック
 * ドメイン駆動設計入門　ボトムアップでわかる
 * 基礎からわかる Elm
-* チームで育てるAndroidアプリ設計
 * ユースケース駆動開発
 * 達人に学ぶDB設計
 * Learning TCP/IP
