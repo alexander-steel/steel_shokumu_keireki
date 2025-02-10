@@ -26,7 +26,7 @@
     * bloc
     * freezed
     * flutter_hooks
-    * clocl
+    * clock
     * cached_network_image
     * flutter_webview_plugin
     * uni_links
@@ -35,6 +35,7 @@
     * json_serializable
     * encrypt
     * riverpod
+    * go_router
     * firebase_performance
     * firebase_crashrtics   
 
