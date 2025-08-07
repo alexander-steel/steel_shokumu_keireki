@@ -186,6 +186,21 @@
 
 ## 職務経歴
 
+### GodotやUnityでのハイパーカジュアルゲーム開発
+- クイズゲーム
+- 動物タワーバトル風積み上げゲーム
+
+### 自社のファンクラブアプリの開発 iOS/Android/Flutter 
+期間　プロジェクト開始から開発中止までの1年半
+BackEnd: GCP
+ - Cloud Run
+ - Cloud SQL
+- Flutter App
+  - 状態管理
+    - riverpod
+  - architecture
+    - clean architecture
+
 ### 自社アプリの保守・新規開発(新規アプリ以外はローテンション開発)
 BackEnd:AWS
  - DynamoDB
