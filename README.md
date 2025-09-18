@@ -117,7 +117,7 @@
   * Apple Connect storeやGoogle Play への自動アップロード
   * Dangerを使ってのPullRequestのチェックの自動化
   * Flutter用のCI構築
-  * ReｖiewDogを使ったPullRequestのチェックの自動化
+  * ReviewDogを使ったPullRequestのチェックの自動化
 
 * Bitrise	
   * Apple Store ConnectやGoogle Playへの自動アップロード
