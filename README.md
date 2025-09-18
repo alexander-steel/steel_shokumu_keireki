@@ -228,7 +228,7 @@ BackEnd:AWS
 - papaninaru Androidアプリ
   - マーケ施策による開発
   - その他プロダクト改善、機能開発
-- sofuboninaru iOSアプリ
+- sofuboninaru iOSアプリ(RxSwift)
   - マーケ施策による開発
   - その他プロダクト改善、機能開発
 - sofuboninaru Androidアプリ
