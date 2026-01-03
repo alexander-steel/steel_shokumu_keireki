@@ -15,7 +15,7 @@
 2022年02月 ～ 2023年12月
 * 株式会社エバーセンス
 
-2024年01月 ～ 2025年（現在）
+2024年01月 ～ 2026年（現在）
 * 株式会社VOISING
 
 # スキルセット
@@ -183,18 +183,33 @@
 * Discord
 
 ## その他使ったことあるツールやサービス
-* chatgpt 4o
+* chatgpt 4o/5.1
 * github copilot
 * cline
+* Gemini
+* claude code
 
 ## 職務経歴
 
-### GodotやUnityでのハイパーカジュアルゲーム開発
+### 自社IPのホームページやLP制作 期間(半年)
+BackEnd:AWS
+  - S3
+  - CloudFront
+  - Fargate
+
+Front:
+ - Astro
+ - React
+   - NextJs 
+
+### GodotやUnityでのハイパーカジュアルゲーム開発 期間:半年(またやる可能性アリ)
+BackEnd:AWS
+ - S3
+ - CloudFront
 - クイズゲーム
 - 動物タワーバトル風積み上げゲーム
 
-### 自社のファンクラブアプリの開発 iOS/Android/Flutter 
-期間　プロジェクト開始から開発中止までの1年半
+### 自社のファンクラブアプリの開発 iOS/Android/Flutter 期間:　(プロジェクト開始から開発中止までの1年半)
 BackEnd: GCP
  - Cloud Run
  - Cloud SQL
