@@ -217,6 +217,8 @@ BackEnd:AWS
 BackEnd: GCP
  - Cloud Run
  - Cloud SQL
+ - framework
+   - grpc
 - Flutter App
   - 状態管理
     - riverpod
