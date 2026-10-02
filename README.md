@@ -214,6 +214,7 @@ BackEnd:AWS
  - CloudFront
 - クイズゲーム
 - 動物タワーバトル風積み上げゲーム
+- Candy Clash 風パズルゲーム
 
 ### 自社のファンクラブアプリの開発 iOS/Android/Flutter 期間:　(プロジェクト開始から開発中止までの1年半)
 BackEnd: GCP
